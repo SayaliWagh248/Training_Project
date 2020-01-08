@@ -29,6 +29,7 @@ public final class ImmutableClass
         return var2;
     }
 
+
     public float getVar3() {
         return var3;
     }
