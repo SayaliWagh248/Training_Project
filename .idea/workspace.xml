@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f858bd6-f1b2-4ee8-b3a6-b9c830012fa2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractionDemo/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,17 +137,29 @@
       <option name="presentableId" value="Default" />
       <updated>1578288311590</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1578488164532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578488164532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="641" y="175" width="544" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1578482894681">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="641" y="175" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1533.873@67.27.1533.873" timestamp="1578482894681" />
-    <state x="440" y="59" width="777" height="807" key="CommitChangelistDialog2" timestamp="1578486852381">
+    <state x="440" y="59" width="777" height="807" key="CommitChangelistDialog2" timestamp="1578488164315">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="440" y="59" width="777" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1578486852381" />
+    <state x="440" y="59" width="777" height="807" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1578488164315" />
     <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578487353474">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
@@ -188,6 +200,10 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1578487412227" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578488538862">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1578488538862" />
     <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1578458971598">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
